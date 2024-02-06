@@ -6,7 +6,7 @@ This is the first project from the "50 Projects In 50 Days" challenge. It's a si
 
 You can view a live demo of the project [here](https://expanding-card-phi.vercel.app/).
 
-![Demo](assets/gif/gif.gif)
+![Demo](assets/gif/cards.gif)
 
 ## Features
 
